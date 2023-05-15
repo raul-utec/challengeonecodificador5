@@ -45,24 +45,32 @@ margin-top: 18px;
 
 .btn-encriptar{
     background-color: #6d7fc2;
-        border:none;
+        border:1px solid #6d7fc2;
         border-radius: 24px;
-        color: antiquewhite;
+        color: white;
         cursor: pointer;
         height: 67px;
-        padding-left: 20px;
-        position: fixed;
         width: 328px;
 }
 .btn-desencriptar{
     background-color: #6d7fc2;
-        border:none;
+        border:1px solid #6d7fc2;
         border-radius: 24px;
+        color: white;
+        cursor: pointer;
+        height: 67px;
+        width: 328px;
+}
+
+.copiar{
+    border:1px solid #6d7fc2;
+    border-radius: 24px;
         color: antiquewhite;
         cursor: pointer;
         height: 67px;
-        padding-left: 20px;
-        position: fixed;
-        width: 328px;
+        margin-left: 102px;
+        margin-top: 402px;
+        position: absolute;
+        width: 336px;
 }
 

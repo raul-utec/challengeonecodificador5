@@ -13,3 +13,32 @@ width: 10%;}
 main{display: flex;
     margin-bottom: 50px;
     margin-left: 80px;}
+
+.textarea{
+    border: none;
+    color: #1b3285;
+    margin-top: 90px;
+    text-transform:uppercase;
+
+}
+::placeholder{color: #502525;}
+.text-area:focus{
+    outline:none;}
+
+    .mensaje{
+        background-color: #6d7fc2;
+        background-image: url();
+        background-repeat: no-repeat;
+        border:none;
+        border-radius: 24px;
+        color: antiquewhite;
+        margin-left:98px;
+        margin-top: 20px;
+        padding-left: 20px;
+        position: fixed;
+    }
+    .mensaje:focus{
+outline:none;
+
+}
+

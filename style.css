@@ -9,3 +9,6 @@
 .logo{padding-top: 10 px;
 margin-left: 10px;
 width: 10%;}
+
+main{display: flex;
+    margin-bottom: 50px;}
